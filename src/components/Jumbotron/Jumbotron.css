@@ -1,0 +1,12 @@
+.jumbotron {
+  width: 100%;
+  text-align: center;
+  color: #2A77AE;
+  margin-top: 110px;
+}
+
+.jumbotronText {
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+}
