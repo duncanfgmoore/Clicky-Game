@@ -41,7 +41,7 @@ class App extends Component {
       }
       if (clicked.length === 12) {
         alert("You did it! You clicked all the images!");
-        this.setState({ image, clicked: [], highscore: this.state.score, score: 0 });
+        this.setState({ image, clicked: [], highscore: 12, score: 0 });
       }
       return;
     }
