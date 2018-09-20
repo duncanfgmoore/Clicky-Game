@@ -3,7 +3,7 @@ import "./NavBar.css";
 
 const NavBar = props => (
     <div className="navBar sticky">
-        <h1 className="title">Memory Challenge</h1>
+        <h1 className="title">Royal Memory</h1>
 
         <div className="scores">
             <div className="score">Current Score:{props.score}</div>
