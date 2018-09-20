@@ -1,12 +1,20 @@
 .jumbotron {
   width: 100%;
   text-align: center;
-  color: #2A77AE;
-  margin-top: 110px;
+  margin-top: 80px;
+  background-image: url("/images/buckingham-palace.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 400px;
+  padding-top: 50px
 }
 
 .jumbotronText {
   width: 65%;
   margin-left: auto;
   margin-right: auto;
+  color: red;
+  font-size: 48px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
 }
