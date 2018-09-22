@@ -2,61 +2,61 @@
   {
     "id": 1,
     "name": "Harry",
-    "image": "/images/harry.jpeg"
+    "image": "https://raw.githubusercontent.com/duncanfgmoore/clicky-game/master/public/images/harry.jpeg"
   },
   {
     "id": 2,
     "name": "William",
-    "image": "/images/william.jpeg"
+    "image": "https://raw.githubusercontent.com/duncanfgmoore/clicky-game/master/public/images/william.jpeg"
   },
   {
     "id": 3,
     "name": "Kate",
-    "image": "/images/kate.jpeg"
+    "image": "https://raw.githubusercontent.com/duncanfgmoore/clicky-game/master/public/images/kate.jpeg"
   },
   {
     "id": 4,
     "name": "Meghan",
-    "image": "/images/meghan.jpeg" 
+    "image": "https://raw.githubusercontent.com/duncanfgmoore/clicky-game/master/public/images/meghan.jpeg" 
   },
   {
     "id": 5,
     "name": "Prince Charles",
-    "image": "/images/charles.jpeg"
+    "image": "https://raw.githubusercontent.com/duncanfgmoore/clicky-game/master/public/images/charles.jpeg"
   },
   {
     "id": 6,
     "name": "Queen Elizabeth",
-    "image": "/images/theQueen.jpeg"
+    "image": "https://raw.githubusercontent.com/duncanfgmoore/clicky-game/master/public/images/theQueen.jpeg"
   },
   {
     "id": 7,
     "name": "George",
-    "image": "/images/george.jpeg" 
+    "image": "https://raw.githubusercontent.com/duncanfgmoore/clicky-game/master/public/images/george.jpeg" 
   },
   {
     "id": 8,
     "name": "Charlotte",
-    "image": "/images/charlotte.jpeg"
+    "image": "https://raw.githubusercontent.com/duncanfgmoore/clicky-game/master/public/images/charlotte.jpeg"
   },
   {
     "id": 9,
     "name": "Prince Philip",
-    "image": "/images/philip.jpeg"
+    "image": "https://raw.githubusercontent.com/duncanfgmoore/clicky-game/master/public/images/philip.jpeg"
   },
   {
     "id": 10,
     "name": "Camilla",
-    "image": "/images/camilla.jpeg"
+    "image": "https://raw.githubusercontent.com/duncanfgmoore/clicky-game/master/public/images/camilla.jpeg"
   },
   {
     "id": 11,
     "name": "Anne",
-    "image": "/images/anne.jpeg"
+    "image": "https://raw.githubusercontent.com/duncanfgmoore/clicky-game/master/public/images/anne.jpeg"
   },
   {
     "id": 12,
     "name": "Andrew",
-    "image": "/images/andrew.jpeg"
+    "image": "https://raw.githubusercontent.com/duncanfgmoore/clicky-game/master/public/images/andrew.jpeg"
   }
 ]
