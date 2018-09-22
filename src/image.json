@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Harry",
+    "image": "/images/harry.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "William",
+    "image": "/images/william.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Kate",
+    "image": "/images/kate.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Meghan",
+    "image": "/images/meghan.jpeg" 
+  },
+  {
+    "id": 5,
+    "name": "Prince Charles",
+    "image": "/images/charles.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Queen Elizabeth",
+    "image": "/images/theQueen.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "George",
+    "image": "/images/george.jpeg" 
+  },
+  {
+    "id": 8,
+    "name": "Charlotte",
+    "image": "/images/charlotte.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Prince Philip",
+    "image": "/images/philip.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Camilla",
+    "image": "/images/camilla.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Anne",
+    "image": "/images/anne.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Andrew",
+    "image": "/images/andrew.jpeg"
+  }
+]
