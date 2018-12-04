@@ -13,6 +13,6 @@ Application designed to test the users memory of the Royal Family. Players will 
 - Bootstrap
 
 
-![screenshot](images/instructions.jpeg)
+![screenshot](public/images/instructions.jpeg)
 
-![screenshot](images/gameplay.jpeg)
+![screenshot](public/images/gameplay.jpeg)
