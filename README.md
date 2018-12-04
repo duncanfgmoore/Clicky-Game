@@ -12,7 +12,8 @@ Application designed to test the users memory of the Royal Family. Players will 
 - CSS
 - Bootstrap
 
-
+# Instructions Page
 ![screenshot](public/images/instructions.jpeg)
 
+# Gameplay
 ![screenshot](public/images/gameplay.jpeg)
