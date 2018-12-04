@@ -1,4 +1,4 @@
-# Royal Family Clicky GAme
+# Royal Family Clicky Game
 
 # Description
 
@@ -13,6 +13,6 @@ Application designed to test the users memory of the Royal Family. Players will 
 - Bootstrap
 
 
-![screenshot](assets/images/instructions.jpeg)
+![screenshot](images/instructions.jpeg)
 
-![screenshot](assets/images/gameplay.jpeg)
+![screenshot](images/gameplay.jpeg)
